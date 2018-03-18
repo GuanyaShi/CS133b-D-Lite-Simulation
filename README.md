@@ -7,3 +7,5 @@ To run D* lite simulation,
 
 Author = {Guanya Shi, Botao Hu, Yukai Liu}
 California Institute of Technology
+
+Simulation vedio can be seen at https://www.youtube.com/watch?v=h6H3n0BNXi8&feature=youtu.be
