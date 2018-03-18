@@ -4,3 +4,6 @@ To run D* lite simulation,
 2. run the test.m file, which will generate a video to visualize the simulation;
 3. enjoy the video!
 4. play with different parameters in .py file.
+
+Author = {Guanya Shi, Botao Hu, Yukai Liu}
+California Institute of Technology
